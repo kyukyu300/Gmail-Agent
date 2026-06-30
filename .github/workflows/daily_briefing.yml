@@ -1,0 +1,38 @@
+name: Daily College Briefing Agent
+
+on:
+  schedule:
+    # 매일 한국 시간 오전 9:00 (UTC 00:00)에 실행
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    # GitHub 웹 UI에서 수동으로 테스트 실행할 수 있도록 허용
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Create Secrets Files
+      run: |
+        # GitHub Secrets로부터 보안 파일들 복원
+        echo "${{ secrets.DOT_ENV }}" > .env
+        echo '${{ secrets.CREDENTIALS_JSON }}' > credentials.json
+        echo '${{ secrets.TOKEN_JSON }}' > token.json
+
+    - name: Run Briefing Agent
+      run: |
+        python main.py

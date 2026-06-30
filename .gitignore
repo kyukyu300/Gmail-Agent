@@ -1,0 +1,36 @@
+# 개인 보안 키 및 토큰 (매우 중요)
+.env
+token.json
+credentials.json
+
+# macOS 시스템 파일
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python 캐시 및 가상환경
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# 개발 중 임시 테스트용 파일
+test_*.py
+
+# IDE 및 도구 설정 파일
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# 에이전트 로그 디렉토리
+logs/
