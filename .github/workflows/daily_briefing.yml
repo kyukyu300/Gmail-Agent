@@ -2,8 +2,8 @@ name: Daily College Briefing Agent
 
 on:
   schedule:
-    # 매일 한국 시간 오전 9:00 (UTC 00:00)에 실행
-    - cron: '0 0 * * *'
+    # 매일 한국 시간 오전 8:48 (UTC 전날 23:48)에 실행 (9시 전후 수신을 위한 대기열 우회 설정)
+    - cron: '48 23 * * *'
   workflow_dispatch:
     # GitHub 웹 UI에서 수동으로 테스트 실행할 수 있도록 허용
 
