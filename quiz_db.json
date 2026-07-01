@@ -1,4 +1,165 @@
 {
-  "sent_polls": [],
+  "sent_polls": [
+    {
+      "poll_id": "6208664114458264726",
+      "question": "[사료] 김부식이 왕명에 따라 묘청의 서경 천도 운동을 진압한 후, 서경 세력을 토벌하는 과정에서 쓴 글의 일부이다. '묘청 등은 서경을 거점으로 삼아 국호를 대위라 하고, 연호를 천개라 하였으며, 군대를 일으켜 왕실의 명령을 거부하였다.' 위 사료와 관련된 사건이 일어난 시기의 사실로 옳은 것은?",
+      "options": [
+        "이자겸의 난이 발생하여 중앙 정치가 문란해졌다.",
+        "서희가 거란의 소손녕과 담판하여 강동 6주를 획득하였다.",
+        "의천이 교종과 선종을 통합하기 위해 교장도감을 설치하였다.",
+        "김부식이 왕의 명령으로 고려 의종 시기에 삼국사기를 편찬하였다."
+      ],
+      "correct_option_id": 0,
+      "explanation": "묘청의 서경 천도 운동(1135)은 고려 인종 때 발생했습니다. 이자겸의 난(1126)은 묘청의 난보다 앞선 인종 때의 사건입니다. 의종 시기 편찬된 삼국사기는 묘청의 난 진압 이후입니다.",
+      "category": "history",
+      "box": 1,
+      "last_asked": "2026-07-02",
+      "next_ask": "2026-07-02"
+    },
+    {
+      "poll_id": "6208664114458264727",
+      "question": "[보기] (가) 인물에 대한 설명으로 옳은 것은?\n(가)는 왜구의 침입이 잦아지자 남해안 일대에서 왜구를 크게 격파하였다. 또한 그는 명나라에 사신으로 가서 외교적 노력을 기울였으며, 요동 정벌을 계획하다가 위화도 회군을 단행하여 권력을 잡았다.\n그는 조선 건국 이후 한양을 새로운 도읍지로 정하고 경복궁을 건설하도록 하였다.",
+      "options": [
+        "쌍성총관부를 공격하여 철령 이북의 땅을 수복하였다.",
+        "과전법을 실시하여 신진 사대부의 경제적 기반을 마련하였다.",
+        "만권당을 세워 원의 학자들과 교류하며 성리학을 연구하였다.",
+        "사림 세력을 등용하기 위해 현량과를 실시하였다."
+      ],
+      "correct_option_id": 1,
+      "explanation": "설명된 인물은 이성계(태조)입니다. 이성계는 정도전과 함께 과전법을 실시하여 고려 말 권문세족의 경제적 기반을 허물고 신진 사대부의 개혁을 뒷받침했습니다.",
+      "category": "history",
+      "box": 1,
+      "last_asked": "2026-07-02",
+      "next_ask": "2026-07-02"
+    },
+    {
+      "poll_id": "6208664114458264728",
+      "question": "[사료] 다음과 같은 주장이 제기된 시기의 사회 모습으로 옳은 것은?\n'우리나라의 토지는 한정되어 있는데, 이를 소수의 권력자가 독점하고 있으니 일반 백성들은 굶주림에 허덕인다. 따라서 토지를 균등하게 배분하고, 영업전은 제외하되 나머지 토지를 새로이 배분해야 한다.' 이는 조준 등이 주장한 경제 개혁안이다.",
+      "options": [
+        "귀족들은 음서 제도를 통해 고위 관직을 독점하였다.",
+        "농민들은 이모작의 보급으로 보리 농사가 활성화되었다.",
+        "조선 후기에는 모내기법이 전국적으로 확산되었다.",
+        "시전 상인들이 국왕의 허락을 받아 금난전권을 행사하였다."
+      ],
+      "correct_option_id": 0,
+      "explanation": "조준의 과전법 건의는 고려 말 공양왕 때 이루어졌습니다. 고려 말에는 권문세족이 대농장을 소유하고 음서 제도를 통해 가문의 권력을 세습하는 모습이 특징입니다.",
+      "category": "history",
+      "box": 1,
+      "last_asked": "2026-07-02",
+      "next_ask": "2026-07-02"
+    },
+    {
+      "poll_id": "6208664114458264729",
+      "question": "[사료] 다음과 같은 선언문을 발표한 단체의 활동으로 옳은 것은?\n'우리는 조선의 독립을 선언하고, 일제의 강압적인 통치에 저항한다. 오늘 우리는 민족의 이름으로 정의의 길을 걷기로 하였으니, 종교와 계급을 넘어 하나로 뭉쳐야 한다.' 위 선언문은 1926년 민족 유일당 운동의 일환으로 발표되었다.",
+      "options": [
+        "광주 학생 항일 운동을 지원하는 격문을 배포하였다.",
+        "조선어 연구회를 조직하여 한글 맞춤법 통일안을 발표하였다.",
+        "6·10 만세 운동을 계획하고 실행하는 데 중추적 역할을 하였다.",
+        "임시 정부의 연통제와 교통국 조직을 정비하였다."
+      ],
+      "correct_option_id": 2,
+      "explanation": "6·10 만세 운동은 1926년 순종의 인산일을 계기로 사회주의 세력과 천도교 등 민족주의 계열이 연대하여 계획한 거대한 항일 운동입니다.",
+      "category": "history",
+      "box": 1,
+      "last_asked": "2026-07-02",
+      "next_ask": "2026-07-02"
+    },
+    {
+      "poll_id": "6208664114458264730",
+      "question": "[보기] 다음 사건들을 시기순으로 옳게 나열한 것은?\n(가) 삼별초가 강화도에서 진도로 거점을 옮겨 항전하였다.\n(나) 최충헌이 정권을 잡고 명종을 폐위한 뒤 신종을 옹립하였다.\n(다) 망이·망소이가 공주 명학소에서 봉기를 일으켰다.\n(라) 정중부 등이 보현원에서 무신 정변을 일으켰다.",
+      "options": [
+        "(라)-(다)-(나)-(가)",
+        "(라)-(나)-(다)-(가)",
+        "(다)-(라)-(나)-(가)",
+        "(나)-(라)-(다)-(가)"
+      ],
+      "correct_option_id": 0,
+      "explanation": "정변(1170) -> 망이·망소이 봉기(1176) -> 최충헌 집권(1196) -> 삼별초의 대몽 항전(1270) 순입니다.",
+      "category": "history",
+      "box": 1,
+      "last_asked": "2026-07-02",
+      "next_ask": "2026-07-02"
+    },
+    {
+      "poll_id": "6208664114458264731",
+      "question": "The board of directors is -------- to review the quarterly financial reports before making any major investment decisions.",
+      "options": [
+        "required",
+        "requires",
+        "requirement",
+        "requiring"
+      ],
+      "correct_option_id": 0,
+      "explanation": "be + p.p. 형태의 수동태 구조가 필요하며, 주어(The board of directors)의 상태를 나타내는 형용사적 분사 'required'가 문맥상 가장 적절합니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-07-02",
+      "next_ask": "2026-07-02"
+    },
+    {
+      "poll_id": "6208664114458264732",
+      "question": "Please ensure that all employees -------- the new safety protocols by the end of the business day.",
+      "options": [
+        "to follow",
+        "following",
+        "have followed",
+        "followed"
+      ],
+      "correct_option_id": 2,
+      "explanation": "that절 이하에는 주어와 동사가 필요하며, 문맥상 '업무 마감 전까지 마쳐야 한다'는 완료의 의미가 적절하므로 현재완료 시제가 정답입니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-07-02",
+      "next_ask": "2026-07-02"
+    },
+    {
+      "poll_id": "6208664114458264733",
+      "question": "The CEO decided to expand the company's presence in Asia, -------- the significant risks involved in the regional market.",
+      "options": [
+        "although",
+        "despite",
+        "nevertheless",
+        "however"
+      ],
+      "correct_option_id": 1,
+      "explanation": "빈칸 뒤에 명사구(the significant risks)가 이어지므로 전치사인 'despite'가 정답입니다. 접속사 although는 절을 이끌어야 합니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-07-02",
+      "next_ask": "2026-07-02"
+    },
+    {
+      "poll_id": "6208664114458264734",
+      "question": "The marketing team has been working -------- on the upcoming product launch to ensure its success in the competitive market.",
+      "options": [
+        "diligence",
+        "diligent",
+        "diligently",
+        "more diligent"
+      ],
+      "correct_option_id": 2,
+      "explanation": "동사 'working'을 수식하는 부사가 필요하므로 부사인 'diligently'가 정답입니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-07-02",
+      "next_ask": "2026-07-02"
+    },
+    {
+      "poll_id": "6208664114458264735",
+      "question": "Applicants who meet all the specified criteria will be invited for an interview, -------- they will have the chance to discuss their skills further.",
+      "options": [
+        "which",
+        "that",
+        "where",
+        "when"
+      ],
+      "correct_option_id": 2,
+      "explanation": "앞선 'interview'를 선행사로 받고, 뒷문장에서 부사적 역할을 하므로 장소를 의미하는 관계부사 'where'가 적절합니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-07-02",
+      "next_ask": "2026-07-02"
+    }
+  ],
   "spaced_repetition_pool": []
 }
