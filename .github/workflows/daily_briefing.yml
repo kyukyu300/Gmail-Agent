@@ -1,5 +1,8 @@
 name: Daily College Briefing Agent
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # 매일 한국 시간 오전 8:48 (UTC 전날 23:48)에 실행 (9시 전후 수신을 위한 대기열 우회 설정)
