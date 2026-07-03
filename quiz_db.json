@@ -1,6 +1,168 @@
 {
   "sent_polls": [
     {
+      "poll_id": "6212839660188599081",
+      "question": "The CEO decided to expand the company's presence in Asia, -------- the significant risks involved in the regional market.",
+      "options": [
+        "although",
+        "despite",
+        "nevertheless",
+        "however"
+      ],
+      "correct_option_id": 1,
+      "explanation": "빈칸 뒤에 명사구(the significant risks)가 이어지므로 전치사인 'despite'가 정답입니다. 접속사 although는 절을 이끌어야 합니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-07-03",
+      "next_ask": "2026-07-03"
+    },
+    {
+      "poll_id": "6212839660188599082",
+      "question": "The marketing team has been working -------- on the upcoming product launch to ensure its success in the competitive market.",
+      "options": [
+        "diligence",
+        "diligent",
+        "diligently",
+        "more diligent"
+      ],
+      "correct_option_id": 2,
+      "explanation": "동사 'working'을 수식하는 부사가 필요하므로 부사인 'diligently'가 정답입니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-07-03",
+      "next_ask": "2026-07-03"
+    },
+    {
+      "poll_id": "6212839660188599083",
+      "question": "Applicants who meet all the specified criteria will be invited for an interview, -------- they will have the chance to discuss their skills further.",
+      "options": [
+        "which",
+        "that",
+        "where",
+        "when"
+      ],
+      "correct_option_id": 2,
+      "explanation": "앞선 'interview'를 선행사로 받고, 뒷문장에서 부사적 역할을 하므로 장소를 의미하는 관계부사 'where'가 적절합니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-07-03",
+      "next_ask": "2026-07-03"
+    },
+    {
+      "poll_id": "6212839660188599084",
+      "question": "[사료] 다음과 같은 주장을 한 인물에 대한 설명으로 옳은 것은? '무릇 나라는 형체이고 역사는 정신입니다. 우리 나라의 형체는 허물어졌으나 정신만이라도 살아 있다면 훗날 나라를 다시 찾을 수 있을 것입니다. 국혼(國魂)을 강조하며 오직 혼을 보존하는 것이 중요합니다.' 그는 '한국통사'와 '한국독립운동지혈사'를 저술하여 일제의 침략상을 폭로하였습니다.",
+      "options": [
+        "진단 학회를 창립하여 실증 사학을 발전시켰다.",
+        "조선 혁명 선언을 작성하여 무장 투쟁의 지침을 제시하였다.",
+        "민족의 국혼을 강조하며 역사를 통한 민족 의식 고취에 힘썼다.",
+        "조선어 사전 편찬을 위해 조선어 학회를 조직하였다."
+      ],
+      "correct_option_id": 2,
+      "explanation": "제시된 사료는 박은식의 '한국통사' 서문 내용으로, 그는 민족의 정신인 '국혼'을 강조하며 일제 강점기 역사 서술을 통해 민족의식을 고취하고자 하였습니다.",
+      "category": "history",
+      "box": 1,
+      "last_asked": "2026-07-03",
+      "next_ask": "2026-07-03"
+    },
+    {
+      "poll_id": "6212839660188599085",
+      "question": "[보기 지문] 다음은 어느 시기의 경제 상황에 대한 기록이다. '강화도 조약 이후 개항장에 일본 화폐가 유통되기 시작하였다. 이로 인해 국내 화폐 제도가 큰 혼란에 빠졌고, 일본은 금융을 장악하여 우리 경제를 예속시켰다. 이에 정부는 화폐 정리 사업을 추진하게 되었다.' 이 시기의 경제적 사실로 옳은 것은?",
+      "options": [
+        "영정법이 실시되어 세금이 1결당 4~6두로 고정되었다.",
+        "화폐 정리 사업으로 일본 제일은행권이 본위 화폐로 통용되었다.",
+        "환곡의 폐단을 개선하기 위해 호포제를 실시하였다.",
+        "보부상을 조직하여 상권 보호를 도모하였다."
+      ],
+      "correct_option_id": 1,
+      "explanation": "대한 제국기 일본은 메가타를 재정 고문으로 파견하여 화폐 정리 사업을 주도하였으며, 이 과정에서 제일은행권이 무제한 통용되어 우리 경제가 일본에 종속되었습니다.",
+      "category": "history",
+      "box": 1,
+      "last_asked": "2026-07-03",
+      "next_ask": "2026-07-03"
+    },
+    {
+      "poll_id": "6212839660188599086",
+      "question": "[사료] '금일 공회의 명의로 발표하는 것은 단지 우리 독립을 위하여 2천만 민족이 한마음으로 일어난다는 선언이다. 우리의 요구는 정의와 인도의 기치 아래 정당한 권리를 찾고자 함이다.' 1919년 3월 1일 발표된 이 선언서의 영향으로 옳은 것은?",
+      "options": [
+        "대한민국 임시 정부가 수립되는 계기가 되었다.",
+        "신간회가 창립되어 민족 유일당 운동이 전개되었다.",
+        "조선 인민 공화국이 선포되어 건국 준비 위원회가 구성되었다.",
+        "6·10 만세 운동이 일어나는 도화선이 되었다."
+      ],
+      "correct_option_id": 0,
+      "explanation": "3·1 운동의 결과로 조직적인 독립운동의 필요성이 제기되어 상하이에서 대한민국 임시 정부가 수립되는 직접적인 계기가 되었습니다.",
+      "category": "history",
+      "box": 1,
+      "last_asked": "2026-07-03",
+      "next_ask": "2026-07-03"
+    },
+    {
+      "poll_id": "6212839660188599087",
+      "question": "[보기 지문] 다음 인물들이 활동한 단체에 대한 설명으로 옳은 것은? '김원봉은 만주 길림에서 의열단을 조직하고 신채호에게 의뢰하여 조선 혁명 선언을 작성하게 하였다. 이들은 암살과 파괴 활동을 통해 일제에 타격을 입히고자 하였다.' 이 단체에 대한 설명으로 적절한 것은?",
+      "options": [
+        "조선 총독부 국권 반환 요구서를 제출하였다.",
+        "만주에서 쌍성보 전투를 승리로 이끌었다.",
+        "일제의 주요 요인 암살과 식민 통치 기관 파괴를 목표로 하였다.",
+        "좌우 합작을 통해 민족 유일당을 결성하고자 하였다."
+      ],
+      "correct_option_id": 2,
+      "explanation": "의열단은 1919년 김원봉 등이 조직한 단체로, 신채호의 '조선 혁명 선언'을 행동 강령으로 삼아 일제 수탈 기관 파괴 및 친일파 처단 등 무력 투쟁을 전개하였습니다.",
+      "category": "history",
+      "box": 1,
+      "last_asked": "2026-07-03",
+      "next_ask": "2026-07-03"
+    },
+    {
+      "poll_id": "6212839660188599088",
+      "question": "[사료] 다음과 같은 정책을 추진한 왕에 대한 설명으로 옳은 것은? '왕은 도병마사를 설치하여 국방 문제를 논의하게 하였고, 식목도감을 두어 법규를 제정하였다. 또한, 경종의 뒤를 이어 즉위한 이후 외척 세력을 억제하고 왕권을 강화하고자 하였다.' 고려 시대의 이 왕의 업적으로 옳은 것은?",
+      "options": [
+        "노비 안검법을 실시하여 호족의 세력을 약화시켰다.",
+        "광덕, 준풍이라는 독자적인 연호를 사용하였다.",
+        "지방관을 파견하고 12목을 설치하여 중앙 집권화를 꾀하였다.",
+        "개경에 나성을 쌓아 거란의 침입에 대비하였다."
+      ],
+      "correct_option_id": 2,
+      "explanation": "제시된 내용은 고려 성종입니다. 성종은 최승로의 시무 28조를 수용하여 지방관을 파견하고 12목을 설치하는 등 유교적 통치 체제를 확립하였습니다.",
+      "category": "history",
+      "box": 1,
+      "last_asked": "2026-07-03",
+      "next_ask": "2026-07-03"
+    },
+    {
+      "poll_id": "6212839660188599089",
+      "question": "The manager asked the team to finish the report ------- the deadline, as the client needs to review it before the weekend.",
+      "options": [
+        "before",
+        "ahead",
+        "priorly",
+        "in advance"
+      ],
+      "correct_option_id": 0,
+      "explanation": "빈칸 뒤에 명사구(the deadline)가 위치하므로 전치사가 필요합니다. 'before'는 전치사와 접속사로 모두 쓰일 수 있어 문맥상 적절합니다. 'ahead'는 부사이며, 'priorly'는 문법적으로 존재하지 않는 단어입니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-07-03",
+      "next_ask": "2026-07-03"
+    },
+    {
+      "poll_id": "6212839660188599090",
+      "question": "Ms. Jenkins has proven to be an ------- leader, consistently guiding the company through challenging market fluctuations over the past decade.",
+      "options": [
+        "effective",
+        "effect",
+        "effectively",
+        "effectiveness"
+      ],
+      "correct_option_id": 0,
+      "explanation": "빈칸은 명사 'leader'를 수식하는 형용사 자리입니다. 따라서 형용사인 'effective'가 정답입니다. 나머지 보기는 각각 명사, 부사, 명사형태입니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-07-03",
+      "next_ask": "2026-07-03"
+    }
+  ],
+  "spaced_repetition_pool": [
+    {
       "poll_id": "6208336060561228627",
       "question": "[사료] 김부식이 왕명에 따라 묘청의 서경 천도 운동을 진압한 후, 서경 세력을 토벌하는 과정에서 쓴 글의 일부이다. '묘청 등은 서경을 거점으로 삼아 국호를 대위라 하고, 연호를 천개라 하였으며, 군대를 일으켜 왕실의 명령을 거부하였다.' 위 사료와 관련된 사건이 일어난 시기의 사실로 옳은 것은?",
       "options": [
@@ -12,9 +174,9 @@
       "correct_option_id": 0,
       "explanation": "묘청의 서경 천도 운동(1135)은 고려 인종 때 발생했습니다. 이자겸의 난(1126)은 묘청의 난보다 앞선 인종 때의 사건입니다. 의종 시기 편찬된 삼국사기는 묘청의 난 진압 이후입니다.",
       "category": "history",
-      "box": 1,
-      "last_asked": "2026-07-02",
-      "next_ask": "2026-07-02"
+      "box": 2,
+      "last_asked": "2026-07-03",
+      "next_ask": "2026-07-06"
     },
     {
       "poll_id": "6208336060561228628",
@@ -28,9 +190,9 @@
       "correct_option_id": 1,
       "explanation": "설명된 인물은 이성계(태조)입니다. 이성계는 정도전과 함께 과전법을 실시하여 고려 말 권문세족의 경제적 기반을 허물고 신진 사대부의 개혁을 뒷받침했습니다.",
       "category": "history",
-      "box": 1,
-      "last_asked": "2026-07-02",
-      "next_ask": "2026-07-02"
+      "box": 2,
+      "last_asked": "2026-07-03",
+      "next_ask": "2026-07-06"
     },
     {
       "poll_id": "6208336060561228629",
@@ -45,8 +207,8 @@
       "explanation": "조준의 과전법 건의는 고려 말 공양왕 때 이루어졌습니다. 고려 말에는 권문세족이 대농장을 소유하고 음서 제도를 통해 가문의 권력을 세습하는 모습이 특징입니다.",
       "category": "history",
       "box": 1,
-      "last_asked": "2026-07-02",
-      "next_ask": "2026-07-02"
+      "last_asked": "2026-07-03",
+      "next_ask": "2026-07-04"
     },
     {
       "poll_id": "6208336060561228630",
@@ -61,8 +223,8 @@
       "explanation": "6·10 만세 운동은 1926년 순종의 인산일을 계기로 사회주의 세력과 천도교 등 민족주의 계열이 연대하여 계획한 거대한 항일 운동입니다.",
       "category": "history",
       "box": 1,
-      "last_asked": "2026-07-02",
-      "next_ask": "2026-07-02"
+      "last_asked": "2026-07-03",
+      "next_ask": "2026-07-04"
     },
     {
       "poll_id": "6208336060561228631",
@@ -77,8 +239,8 @@
       "explanation": "정변(1170) -> 망이·망소이 봉기(1176) -> 최충헌 집권(1196) -> 삼별초의 대몽 항전(1270) 순입니다.",
       "category": "history",
       "box": 1,
-      "last_asked": "2026-07-02",
-      "next_ask": "2026-07-02"
+      "last_asked": "2026-07-03",
+      "next_ask": "2026-07-04"
     },
     {
       "poll_id": "6208336060561228632",
@@ -92,9 +254,9 @@
       "correct_option_id": 0,
       "explanation": "be + p.p. 형태의 수동태 구조가 필요하며, 주어(The board of directors)의 상태를 나타내는 형용사적 분사 'required'가 문맥상 가장 적절합니다.",
       "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-07-02",
-      "next_ask": "2026-07-02"
+      "box": 2,
+      "last_asked": "2026-07-03",
+      "next_ask": "2026-07-06"
     },
     {
       "poll_id": "6208336060561228633",
@@ -109,8 +271,8 @@
       "explanation": "that절 이하에는 주어와 동사가 필요하며, 문맥상 '업무 마감 전까지 마쳐야 한다'는 완료의 의미가 적절하므로 현재완료 시제가 정답입니다.",
       "category": "toeic",
       "box": 1,
-      "last_asked": "2026-07-02",
-      "next_ask": "2026-07-02"
+      "last_asked": "2026-07-03",
+      "next_ask": "2026-07-04"
     },
     {
       "poll_id": "6208336060561228634",
@@ -124,9 +286,9 @@
       "correct_option_id": 0,
       "explanation": "The sentence requires a base form verb to follow the infinitive marker 'to'. 'Postpone' functions as the verb here.",
       "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-07-02",
-      "next_ask": "2026-07-02"
+      "box": 2,
+      "last_asked": "2026-07-03",
+      "next_ask": "2026-07-06"
     },
     {
       "poll_id": "6208336060561228635",
@@ -141,8 +303,8 @@
       "explanation": "The preposition 'by' is used to indicate a deadline, meaning 'no later than'. 'Until' would imply a continuous state, which does not fit.",
       "category": "toeic",
       "box": 1,
-      "last_asked": "2026-07-02",
-      "next_ask": "2026-07-02"
+      "last_asked": "2026-07-03",
+      "next_ask": "2026-07-04"
     },
     {
       "poll_id": "6208336060561228636",
@@ -156,59 +318,9 @@
       "correct_option_id": 2,
       "explanation": "An adverb is required to modify the adjective 'qualified'. 'Highly' correctly serves as an intensifier in this context.",
       "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-07-02",
-      "next_ask": "2026-07-02"
-    }
-  ],
-  "spaced_repetition_pool": [
-    {
-      "poll_id": "6208664114458264743",
-      "question": "The CEO decided to expand the company's presence in Asia, -------- the significant risks involved in the regional market.",
-      "options": [
-        "although",
-        "despite",
-        "nevertheless",
-        "however"
-      ],
-      "correct_option_id": 1,
-      "explanation": "빈칸 뒤에 명사구(the significant risks)가 이어지므로 전치사인 'despite'가 정답입니다. 접속사 although는 절을 이끌어야 합니다.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-07-02",
-      "next_ask": "2026-07-03"
-    },
-    {
-      "poll_id": "6208664114458264744",
-      "question": "The marketing team has been working -------- on the upcoming product launch to ensure its success in the competitive market.",
-      "options": [
-        "diligence",
-        "diligent",
-        "diligently",
-        "more diligent"
-      ],
-      "correct_option_id": 2,
-      "explanation": "동사 'working'을 수식하는 부사가 필요하므로 부사인 'diligently'가 정답입니다.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-07-02",
-      "next_ask": "2026-07-03"
-    },
-    {
-      "poll_id": "6208664114458264745",
-      "question": "Applicants who meet all the specified criteria will be invited for an interview, -------- they will have the chance to discuss their skills further.",
-      "options": [
-        "which",
-        "that",
-        "where",
-        "when"
-      ],
-      "correct_option_id": 2,
-      "explanation": "앞선 'interview'를 선행사로 받고, 뒷문장에서 부사적 역할을 하므로 장소를 의미하는 관계부사 'where'가 적절합니다.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-07-02",
-      "next_ask": "2026-07-03"
+      "box": 2,
+      "last_asked": "2026-07-03",
+      "next_ask": "2026-07-06"
     }
   ]
 }
