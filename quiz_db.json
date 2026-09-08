@@ -1,169 +1,7 @@
 {
   "sent_polls": [
     {
-      "poll_id": "6120442432476677177",
-      "question": "[보기 지문] 가 시기에 있었던 사실로 옳은 것은? (가) 동학 농민군이 전주성을 점령하고 정부와 화약을 체결하였다. 이후 농민군은 집강소를 설치하여 폐정 개혁을 추진하였다. 그러나 일본군이 경복궁을 기습 점령하고 내정 간섭을 강화하자, 농민군은 다시 봉기하였다.",
-      "options": [
-        "남접과 북접이 연합하여 우금치에서 항전하였다.",
-        "청나라 군대가 철수를 거부하며 풍도 해전이 일어났다.",
-        "대한 제국이 선포되어 고종이 황제에 즉위하였다.",
-        "독립 협회가 만민 공동회를 개최하여 이권 수호를 주장하였다."
-      ],
-      "correct_option_id": 0,
-      "explanation": "제시된 시기는 동학 농민 운동의 2차 봉기 시점입니다. 2차 봉기 당시 전봉준의 남접과 손병희의 북접이 합세하여 공주 우금치에서 일본군 및 관군과 격돌하였습니다.",
-      "category": "history",
-      "box": 1,
-      "last_asked": "2026-09-07",
-      "next_ask": "2026-09-04"
-    },
-    {
-      "poll_id": "6120442432476677178",
-      "question": "[사료] 다음과 같은 상황이 전개된 시기의 사실로 옳은 것은? \"개경으로 환도한 뒤, 원의 내정 간섭은 더욱 심화되었다. 정동행성의 이문소는 고려의 사법권까지 침해하였으며, 왕의 호칭과 관제는 격하되었다. 하지만 공민왕이 즉위하면서 이러한 흐름은 반전되기 시작하였다.\"",
-      "options": [
-        "쌍성총관부를 공격하여 철령 이북의 땅을 수복하였다.",
-        "몽골풍을 주도하여 변발과 호복이 유행하였다.",
-        "삼별초가 강화도에서 진도로 거점을 옮겨 저항하였다.",
-        "정방을 폐지하고 인사권을 왕에게 귀속시켰다."
-      ],
-      "correct_option_id": 0,
-      "explanation": "사료는 공민왕의 반원 자주화 정책 시기를 의미합니다. 공민왕은 1356년 기철을 숙청하고 쌍성총관부를 무력으로 공격하여 영토를 되찾았습니다. 3번은 고려 무신정권기, 2번은 원 간섭기 초기의 상황입니다.",
-      "category": "history",
-      "box": 1,
-      "last_asked": "2026-09-07",
-      "next_ask": "2026-09-05"
-    },
-    {
-      "poll_id": "6120442432476677179",
-      "question": "[보기] (가) 인물에 대한 설명으로 옳은 것은? (가)는 경기도 개성에서 태어나 성리학을 깊이 연구하였다. 그는 16세기에 '기발이승일도설'을 주장하며 이와 기의 관계를 논리적으로 체계화하였다. 또한 그가 세운 서원에서는 학문 연구와 제자 양성이 활발히 이루어졌다.",
-      "options": [
-        "성학십도를 저술하여 군주의 도리를 강조하였다.",
-        "동호문답을 통해 수미법을 포함한 개혁안을 제시하였다.",
-        "위훈 삭제를 주장하며 훈구 세력의 비리를 비판하였다.",
-        "강화 학파를 형성하여 지행합일을 강조하였다."
-      ],
-      "correct_option_id": 1,
-      "explanation": "보기의 인물은 이이입니다. 이이는 '기발이승일도설'을 주장한 주기론자이며, 동호문답 등을 통해 공납제 개혁인 수미법 도입을 주장했습니다. 이황은 성학십도를 저술했습니다.",
-      "category": "history",
-      "box": 1,
-      "last_asked": "2026-09-07",
-      "next_ask": "2026-09-05"
-    },
-    {
-      "poll_id": "6120442432476677180",
-      "question": "[사료] 다음 포고문이 발표된 이후의 역사적 사실로 옳은 것은? \"일본은 조선을 아시아의 영도자로 만들고 동양 평화를 유지하기 위해 보호 조약을 체결한다. 이에 외교권을 박탈하고 통감부를 설치하여 내정을 감독하게 한다.\"",
-      "options": [
-        "헤이그 특사를 파견하여 을사늑약의 부당성을 알렸다.",
-        "대한 제국 선포 이후 광무개혁을 추진하였다.",
-        "러일 전쟁의 발발로 일본군이 한양에 진주하였다.",
-        "독립 협회가 만민 공동회를 개최하였다."
-      ],
-      "correct_option_id": 0,
-      "explanation": "사료는 1905년 을사늑약입니다. 을사늑약 이후 고종은 조약의 불법성을 알리기 위해 1907년 헤이그에 특사를 파견하였습니다. 2, 3, 4번은 을사늑약 이전의 사건입니다.",
-      "category": "history",
-      "box": 1,
-      "last_asked": "2026-09-07",
-      "next_ask": "2026-09-05"
-    },
-    {
-      "poll_id": "6120442432476677181",
-      "question": "[사료] 다음 조약 체결로 나타난 결과로 가장 적절한 것은? \"조선은 청의 속방임을 명시하고, 청의 상인은 조선 내지에서 자유롭게 무역할 수 있다. 또한 조선 내에서 영사 재판권과 최혜국 대우를 인정받는다.\"",
-      "options": [
-        "방곡령 선포가 활발해지는 계기가 되었다.",
-        "조선이 근대적 통상국가임을 국제적으로 인정받았다.",
-        "일본의 경제적 독점 체제가 강화되었다.",
-        "개화파가 중심이 되어 갑신정변을 일으켰다."
-      ],
-      "correct_option_id": 3,
-      "explanation": "사료는 1882년 임오군란 이후 체결된 '조청상민수륙무역장정'입니다. 이로 인해 청의 내정 간섭이 심화되었고, 이에 반발한 급진 개화파가 1884년 갑신정변을 일으켰습니다.",
-      "category": "history",
-      "box": 1,
-      "last_asked": "2026-09-07",
-      "next_ask": "2026-09-05"
-    },
-    {
-      "poll_id": "6120442432476677182",
-      "question": "The board of directors is -------- to review the quarterly financial reports before making any major investment decisions.",
-      "options": [
-        "required",
-        "requires",
-        "requirement",
-        "requiring"
-      ],
-      "correct_option_id": 0,
-      "explanation": "be + p.p. 형태의 수동태 구조가 필요하며, 주어(The board of directors)의 상태를 나타내는 형용사적 분사 'required'가 문맥상 가장 적절합니다.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-09-07",
-      "next_ask": "2026-09-04"
-    },
-    {
-      "poll_id": "6120442432476677183",
-      "question": "Choose the best word to complete the sentence: Due to the unexpected budget cuts, the department head decided to ------- the proposed marketing strategy to prioritize essential operational costs.",
-      "options": [
-        "postpone",
-        "postponement",
-        "postponing",
-        "postpones"
-      ],
-      "correct_option_id": 0,
-      "explanation": "The sentence requires a base form verb to follow the infinitive marker 'to'. 'Postpone' functions as the verb here.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-09-07",
-      "next_ask": "2026-09-04"
-    },
-    {
-      "poll_id": "6120442432476677184",
-      "question": "The CEO decided to expand the company's presence in Asia, -------- the significant risks involved in the regional market.",
-      "options": [
-        "although",
-        "despite",
-        "nevertheless",
-        "however"
-      ],
-      "correct_option_id": 1,
-      "explanation": "빈칸 뒤에 명사구(the significant risks)가 이어지므로 전치사인 'despite'가 정답입니다. 접속사 although는 절을 이끌어야 합니다.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-09-07",
-      "next_ask": "2026-09-05"
-    },
-    {
-      "poll_id": "6120442432476677185",
-      "question": "The marketing team has been working -------- on the upcoming product launch to ensure its success in the competitive market.",
-      "options": [
-        "diligence",
-        "diligent",
-        "diligently",
-        "more diligent"
-      ],
-      "correct_option_id": 2,
-      "explanation": "동사 'working'을 수식하는 부사가 필요하므로 부사인 'diligently'가 정답입니다.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-09-07",
-      "next_ask": "2026-09-05"
-    },
-    {
-      "poll_id": "6120442432476677186",
-      "question": "The manager asked the team to finish the report ------- the deadline, as the client needs to review it before the weekend.",
-      "options": [
-        "before",
-        "ahead",
-        "priorly",
-        "in advance"
-      ],
-      "correct_option_id": 0,
-      "explanation": "빈칸 뒤에 명사구(the deadline)가 위치하므로 전치사가 필요합니다. 'before'는 전치사와 접속사로 모두 쓰일 수 있어 문맥상 적절합니다. 'ahead'는 부사이며, 'priorly'는 문법적으로 존재하지 않는 단어입니다.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-09-07",
-      "next_ask": "2026-09-05"
-    }
-  ],
-  "spaced_repetition_pool": [
-    {
-      "poll_id": "6111779479145677314",
+      "poll_id": "6122694232290362685",
       "question": "[사료] 김부식이 왕명에 따라 묘청의 서경 천도 운동을 진압한 후, 서경 세력을 토벌하는 과정에서 쓴 글의 일부이다. '묘청 등은 서경을 거점으로 삼아 국호를 대위라 하고, 연호를 천개라 하였으며, 군대를 일으켜 왕실의 명령을 거부하였다.' 위 사료와 관련된 사건이 일어난 시기의 사실로 옳은 것은?",
       "options": [
         "이자겸의 난이 발생하여 중앙 정치가 문란해졌다.",
@@ -175,43 +13,11 @@
       "explanation": "묘청의 서경 천도 운동(1135)은 고려 인종 때 발생했습니다. 이자겸의 난(1126)은 묘청의 난보다 앞선 인종 때의 사건입니다. 의종 시기 편찬된 삼국사기는 묘청의 난 진압 이후입니다.",
       "category": "history",
       "box": 1,
-      "last_asked": "2026-09-05",
+      "last_asked": "2026-09-08",
       "next_ask": "2026-09-05"
     },
     {
-      "poll_id": "6111779479145677318",
-      "question": "Ms. Jenkins has proven to be an ------- leader, consistently guiding the company through challenging market fluctuations over the past decade.",
-      "options": [
-        "effective",
-        "effect",
-        "effectively",
-        "effectiveness"
-      ],
-      "correct_option_id": 0,
-      "explanation": "빈칸은 명사 'leader'를 수식하는 형용사 자리입니다. 따라서 형용사인 'effective'가 정답입니다. 나머지 보기는 각각 명사, 부사, 명사형태입니다.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-09-05",
-      "next_ask": "2026-09-05"
-    },
-    {
-      "poll_id": "6111779479145677319",
-      "question": "Choose the best word to complete the sentence: Mr. Henderson is ------- qualified for the senior consultant position, given his extensive background in international finance and project management.",
-      "options": [
-        "high",
-        "highest",
-        "highly",
-        "higher"
-      ],
-      "correct_option_id": 2,
-      "explanation": "An adverb is required to modify the adjective 'qualified'. 'Highly' correctly serves as an intensifier in this context.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-09-05",
-      "next_ask": "2026-09-05"
-    },
-    {
-      "poll_id": "6114031278959362931",
+      "poll_id": "6122694232290362686",
       "question": "[보기] (가) 인물에 대한 설명으로 옳은 것은?\n(가)는 왜구의 침입이 잦아지자 남해안 일대에서 왜구를 크게 격파하였다. 또한 그는 명나라에 사신으로 가서 외교적 노력을 기울였으며, 요동 정벌을 계획하다가 위화도 회군을 단행하여 권력을 잡았다.\n그는 조선 건국 이후 한양을 새로운 도읍지로 정하고 경복궁을 건설하도록 하였다.",
       "options": [
         "쌍성총관부를 공격하여 철령 이북의 땅을 수복하였다.",
@@ -223,11 +29,11 @@
       "explanation": "설명된 인물은 이성계(태조)입니다. 이성계는 정도전과 함께 과전법을 실시하여 고려 말 권문세족의 경제적 기반을 허물고 신진 사대부의 개혁을 뒷받침했습니다.",
       "category": "history",
       "box": 1,
-      "last_asked": "2026-09-06",
+      "last_asked": "2026-09-08",
       "next_ask": "2026-09-06"
     },
     {
-      "poll_id": "6114031278959362932",
+      "poll_id": "6122694232290362687",
       "question": "[사료] 다음과 같은 선언문을 발표한 단체의 활동으로 옳은 것은?\n'우리는 조선의 독립을 선언하고, 일제의 강압적인 통치에 저항한다. 오늘 우리는 민족의 이름으로 정의의 길을 걷기로 하였으니, 종교와 계급을 넘어 하나로 뭉쳐야 한다.' 위 선언문은 1926년 민족 유일당 운동의 일환으로 발표되었다.",
       "options": [
         "광주 학생 항일 운동을 지원하는 격문을 배포하였다.",
@@ -239,11 +45,11 @@
       "explanation": "6·10 만세 운동은 1926년 순종의 인산일을 계기로 사회주의 세력과 천도교 등 민족주의 계열이 연대하여 계획한 거대한 항일 운동입니다.",
       "category": "history",
       "box": 1,
-      "last_asked": "2026-09-06",
+      "last_asked": "2026-09-08",
       "next_ask": "2026-09-06"
     },
     {
-      "poll_id": "6114031278959362933",
+      "poll_id": "6122694232290362688",
       "question": "[보기] 다음 사건들을 시기순으로 옳게 나열한 것은?\n(가) 삼별초가 강화도에서 진도로 거점을 옮겨 항전하였다.\n(나) 최충헌이 정권을 잡고 명종을 폐위한 뒤 신종을 옹립하였다.\n(다) 망이·망소이가 공주 명학소에서 봉기를 일으켰다.\n(라) 정중부 등이 보현원에서 무신 정변을 일으켰다.",
       "options": [
         "(라)-(다)-(나)-(가)",
@@ -255,11 +61,11 @@
       "explanation": "정변(1170) -> 망이·망소이 봉기(1176) -> 최충헌 집권(1196) -> 삼별초의 대몽 항전(1270) 순입니다.",
       "category": "history",
       "box": 1,
-      "last_asked": "2026-09-06",
+      "last_asked": "2026-09-08",
       "next_ask": "2026-09-06"
     },
     {
-      "poll_id": "6114031278959362934",
+      "poll_id": "6122694232290362689",
       "question": "[사료] 다음과 같은 주장을 펼친 인물은 국왕에게 상소를 올려 \"오늘날의 폐단은 붕당이 득세하는 것이며, 그 근본은 외척의 세도 정치에 있습니다. 지금의 폐해를 바로잡기 위해서는 탕평을 시행하여 당색을 초월한 인재를 등용해야 합니다. 특히 왕실의 외척인 노론 세력을 견제하고, 억눌려 있던 남인과 소론을 적절히 기용하여 세력 균형을 맞춰야 합니다.\"",
       "options": [
         "영조",
@@ -271,9 +77,91 @@
       "explanation": "제시된 사료는 정조의 탕평책에 관한 내용입니다. 정조는 즉위 직후부터 '준론 탕평'을 표방하며 노론 벽파를 견제하고, 자신의 개혁 정치에 동조하는 인물을 과감히 등용하였습니다.",
       "category": "history",
       "box": 1,
-      "last_asked": "2026-09-06",
+      "last_asked": "2026-09-08",
       "next_ask": "2026-09-06"
     },
+    {
+      "poll_id": "6122694232290362690",
+      "question": "Ms. Jenkins has proven to be an ------- leader, consistently guiding the company through challenging market fluctuations over the past decade.",
+      "options": [
+        "effective",
+        "effect",
+        "effectively",
+        "effectiveness"
+      ],
+      "correct_option_id": 0,
+      "explanation": "빈칸은 명사 'leader'를 수식하는 형용사 자리입니다. 따라서 형용사인 'effective'가 정답입니다. 나머지 보기는 각각 명사, 부사, 명사형태입니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-09-08",
+      "next_ask": "2026-09-05"
+    },
+    {
+      "poll_id": "6122694232290362691",
+      "question": "Choose the best word to complete the sentence: Mr. Henderson is ------- qualified for the senior consultant position, given his extensive background in international finance and project management.",
+      "options": [
+        "high",
+        "highest",
+        "highly",
+        "higher"
+      ],
+      "correct_option_id": 2,
+      "explanation": "An adverb is required to modify the adjective 'qualified'. 'Highly' correctly serves as an intensifier in this context.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-09-08",
+      "next_ask": "2026-09-05"
+    },
+    {
+      "poll_id": "6122694232290362692",
+      "question": "Please ensure that all employees -------- the new safety protocols by the end of the business day.",
+      "options": [
+        "to follow",
+        "following",
+        "have followed",
+        "followed"
+      ],
+      "correct_option_id": 2,
+      "explanation": "that절 이하에는 주어와 동사가 필요하며, 문맥상 '업무 마감 전까지 마쳐야 한다'는 완료의 의미가 적절하므로 현재완료 시제가 정답입니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-09-08",
+      "next_ask": "2026-09-06"
+    },
+    {
+      "poll_id": "6122694232290362693",
+      "question": "The board of directors meeting has been ------ scheduled for next Tuesday to accommodate the arrival of the overseas delegates.",
+      "options": [
+        "reschedule",
+        "rescheduled",
+        "rescheduling",
+        "reschedules"
+      ],
+      "correct_option_id": 1,
+      "explanation": "빈칸은 동사(scheduled)를 수식하는 부사 자리입니다. 문맥상 '일정이 조정된'이라는 의미의 수동태 구조를 완성해야 하므로 부사(rescheduled된 상태를 수식)인 과거분사 형태가 적절합니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-09-08",
+      "next_ask": "2026-09-06"
+    },
+    {
+      "poll_id": "6122694232290362694",
+      "question": "Applicants who meet all the specified criteria will be invited for an interview, -------- they will have the chance to discuss their skills further.",
+      "options": [
+        "which",
+        "that",
+        "where",
+        "when"
+      ],
+      "correct_option_id": 2,
+      "explanation": "앞선 'interview'를 선행사로 받고, 뒷문장에서 부사적 역할을 하므로 장소를 의미하는 관계부사 'where'가 적절합니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-09-08",
+      "next_ask": "2026-09-06"
+    }
+  ],
+  "spaced_repetition_pool": [
     {
       "poll_id": "6114031278959362935",
       "question": "[사료] 다음과 같은 주장을 한 인물에 대한 설명으로 옳은 것은? '무릇 나라는 형체이고 역사는 정신입니다. 우리 나라의 형체는 허물어졌으나 정신만이라도 살아 있다면 훗날 나라를 다시 찾을 수 있을 것입니다. 국혼(國魂)을 강조하며 오직 혼을 보존하는 것이 중요합니다.' 그는 '한국통사'와 '한국독립운동지혈사'를 저술하여 일제의 침략상을 폭로하였습니다.",
@@ -286,54 +174,6 @@
       "correct_option_id": 2,
       "explanation": "제시된 사료는 박은식의 '한국통사' 서문 내용으로, 그는 민족의 정신인 '국혼'을 강조하며 일제 강점기 역사 서술을 통해 민족의식을 고취하고자 하였습니다.",
       "category": "history",
-      "box": 1,
-      "last_asked": "2026-09-06",
-      "next_ask": "2026-09-06"
-    },
-    {
-      "poll_id": "6114031278959362936",
-      "question": "Please ensure that all employees -------- the new safety protocols by the end of the business day.",
-      "options": [
-        "to follow",
-        "following",
-        "have followed",
-        "followed"
-      ],
-      "correct_option_id": 2,
-      "explanation": "that절 이하에는 주어와 동사가 필요하며, 문맥상 '업무 마감 전까지 마쳐야 한다'는 완료의 의미가 적절하므로 현재완료 시제가 정답입니다.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-09-06",
-      "next_ask": "2026-09-06"
-    },
-    {
-      "poll_id": "6114031278959362937",
-      "question": "The board of directors meeting has been ------ scheduled for next Tuesday to accommodate the arrival of the overseas delegates.",
-      "options": [
-        "reschedule",
-        "rescheduled",
-        "rescheduling",
-        "reschedules"
-      ],
-      "correct_option_id": 1,
-      "explanation": "빈칸은 동사(scheduled)를 수식하는 부사 자리입니다. 문맥상 '일정이 조정된'이라는 의미의 수동태 구조를 완성해야 하므로 부사(rescheduled된 상태를 수식)인 과거분사 형태가 적절합니다.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-09-06",
-      "next_ask": "2026-09-06"
-    },
-    {
-      "poll_id": "6114031278959362938",
-      "question": "Applicants who meet all the specified criteria will be invited for an interview, -------- they will have the chance to discuss their skills further.",
-      "options": [
-        "which",
-        "that",
-        "where",
-        "when"
-      ],
-      "correct_option_id": 2,
-      "explanation": "앞선 'interview'를 선행사로 받고, 뒷문장에서 부사적 역할을 하므로 장소를 의미하는 관계부사 'where'가 적절합니다.",
-      "category": "toeic",
       "box": 1,
       "last_asked": "2026-09-06",
       "next_ask": "2026-09-06"
@@ -529,6 +369,166 @@
       "box": 1,
       "last_asked": "2026-09-07",
       "next_ask": "2026-09-07"
+    },
+    {
+      "poll_id": "6120442432476677177",
+      "question": "[보기 지문] 가 시기에 있었던 사실로 옳은 것은? (가) 동학 농민군이 전주성을 점령하고 정부와 화약을 체결하였다. 이후 농민군은 집강소를 설치하여 폐정 개혁을 추진하였다. 그러나 일본군이 경복궁을 기습 점령하고 내정 간섭을 강화하자, 농민군은 다시 봉기하였다.",
+      "options": [
+        "남접과 북접이 연합하여 우금치에서 항전하였다.",
+        "청나라 군대가 철수를 거부하며 풍도 해전이 일어났다.",
+        "대한 제국이 선포되어 고종이 황제에 즉위하였다.",
+        "독립 협회가 만민 공동회를 개최하여 이권 수호를 주장하였다."
+      ],
+      "correct_option_id": 0,
+      "explanation": "제시된 시기는 동학 농민 운동의 2차 봉기 시점입니다. 2차 봉기 당시 전봉준의 남접과 손병희의 북접이 합세하여 공주 우금치에서 일본군 및 관군과 격돌하였습니다.",
+      "category": "history",
+      "box": 1,
+      "last_asked": "2026-09-08",
+      "next_ask": "2026-09-08"
+    },
+    {
+      "poll_id": "6120442432476677178",
+      "question": "[사료] 다음과 같은 상황이 전개된 시기의 사실로 옳은 것은? \"개경으로 환도한 뒤, 원의 내정 간섭은 더욱 심화되었다. 정동행성의 이문소는 고려의 사법권까지 침해하였으며, 왕의 호칭과 관제는 격하되었다. 하지만 공민왕이 즉위하면서 이러한 흐름은 반전되기 시작하였다.\"",
+      "options": [
+        "쌍성총관부를 공격하여 철령 이북의 땅을 수복하였다.",
+        "몽골풍을 주도하여 변발과 호복이 유행하였다.",
+        "삼별초가 강화도에서 진도로 거점을 옮겨 저항하였다.",
+        "정방을 폐지하고 인사권을 왕에게 귀속시켰다."
+      ],
+      "correct_option_id": 0,
+      "explanation": "사료는 공민왕의 반원 자주화 정책 시기를 의미합니다. 공민왕은 1356년 기철을 숙청하고 쌍성총관부를 무력으로 공격하여 영토를 되찾았습니다. 3번은 고려 무신정권기, 2번은 원 간섭기 초기의 상황입니다.",
+      "category": "history",
+      "box": 1,
+      "last_asked": "2026-09-08",
+      "next_ask": "2026-09-08"
+    },
+    {
+      "poll_id": "6120442432476677179",
+      "question": "[보기] (가) 인물에 대한 설명으로 옳은 것은? (가)는 경기도 개성에서 태어나 성리학을 깊이 연구하였다. 그는 16세기에 '기발이승일도설'을 주장하며 이와 기의 관계를 논리적으로 체계화하였다. 또한 그가 세운 서원에서는 학문 연구와 제자 양성이 활발히 이루어졌다.",
+      "options": [
+        "성학십도를 저술하여 군주의 도리를 강조하였다.",
+        "동호문답을 통해 수미법을 포함한 개혁안을 제시하였다.",
+        "위훈 삭제를 주장하며 훈구 세력의 비리를 비판하였다.",
+        "강화 학파를 형성하여 지행합일을 강조하였다."
+      ],
+      "correct_option_id": 1,
+      "explanation": "보기의 인물은 이이입니다. 이이는 '기발이승일도설'을 주장한 주기론자이며, 동호문답 등을 통해 공납제 개혁인 수미법 도입을 주장했습니다. 이황은 성학십도를 저술했습니다.",
+      "category": "history",
+      "box": 1,
+      "last_asked": "2026-09-08",
+      "next_ask": "2026-09-08"
+    },
+    {
+      "poll_id": "6120442432476677180",
+      "question": "[사료] 다음 포고문이 발표된 이후의 역사적 사실로 옳은 것은? \"일본은 조선을 아시아의 영도자로 만들고 동양 평화를 유지하기 위해 보호 조약을 체결한다. 이에 외교권을 박탈하고 통감부를 설치하여 내정을 감독하게 한다.\"",
+      "options": [
+        "헤이그 특사를 파견하여 을사늑약의 부당성을 알렸다.",
+        "대한 제국 선포 이후 광무개혁을 추진하였다.",
+        "러일 전쟁의 발발로 일본군이 한양에 진주하였다.",
+        "독립 협회가 만민 공동회를 개최하였다."
+      ],
+      "correct_option_id": 0,
+      "explanation": "사료는 1905년 을사늑약입니다. 을사늑약 이후 고종은 조약의 불법성을 알리기 위해 1907년 헤이그에 특사를 파견하였습니다. 2, 3, 4번은 을사늑약 이전의 사건입니다.",
+      "category": "history",
+      "box": 1,
+      "last_asked": "2026-09-08",
+      "next_ask": "2026-09-08"
+    },
+    {
+      "poll_id": "6120442432476677181",
+      "question": "[사료] 다음 조약 체결로 나타난 결과로 가장 적절한 것은? \"조선은 청의 속방임을 명시하고, 청의 상인은 조선 내지에서 자유롭게 무역할 수 있다. 또한 조선 내에서 영사 재판권과 최혜국 대우를 인정받는다.\"",
+      "options": [
+        "방곡령 선포가 활발해지는 계기가 되었다.",
+        "조선이 근대적 통상국가임을 국제적으로 인정받았다.",
+        "일본의 경제적 독점 체제가 강화되었다.",
+        "개화파가 중심이 되어 갑신정변을 일으켰다."
+      ],
+      "correct_option_id": 3,
+      "explanation": "사료는 1882년 임오군란 이후 체결된 '조청상민수륙무역장정'입니다. 이로 인해 청의 내정 간섭이 심화되었고, 이에 반발한 급진 개화파가 1884년 갑신정변을 일으켰습니다.",
+      "category": "history",
+      "box": 1,
+      "last_asked": "2026-09-08",
+      "next_ask": "2026-09-08"
+    },
+    {
+      "poll_id": "6120442432476677182",
+      "question": "The board of directors is -------- to review the quarterly financial reports before making any major investment decisions.",
+      "options": [
+        "required",
+        "requires",
+        "requirement",
+        "requiring"
+      ],
+      "correct_option_id": 0,
+      "explanation": "be + p.p. 형태의 수동태 구조가 필요하며, 주어(The board of directors)의 상태를 나타내는 형용사적 분사 'required'가 문맥상 가장 적절합니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-09-08",
+      "next_ask": "2026-09-08"
+    },
+    {
+      "poll_id": "6120442432476677183",
+      "question": "Choose the best word to complete the sentence: Due to the unexpected budget cuts, the department head decided to ------- the proposed marketing strategy to prioritize essential operational costs.",
+      "options": [
+        "postpone",
+        "postponement",
+        "postponing",
+        "postpones"
+      ],
+      "correct_option_id": 0,
+      "explanation": "The sentence requires a base form verb to follow the infinitive marker 'to'. 'Postpone' functions as the verb here.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-09-08",
+      "next_ask": "2026-09-08"
+    },
+    {
+      "poll_id": "6120442432476677184",
+      "question": "The CEO decided to expand the company's presence in Asia, -------- the significant risks involved in the regional market.",
+      "options": [
+        "although",
+        "despite",
+        "nevertheless",
+        "however"
+      ],
+      "correct_option_id": 1,
+      "explanation": "빈칸 뒤에 명사구(the significant risks)가 이어지므로 전치사인 'despite'가 정답입니다. 접속사 although는 절을 이끌어야 합니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-09-08",
+      "next_ask": "2026-09-08"
+    },
+    {
+      "poll_id": "6120442432476677185",
+      "question": "The marketing team has been working -------- on the upcoming product launch to ensure its success in the competitive market.",
+      "options": [
+        "diligence",
+        "diligent",
+        "diligently",
+        "more diligent"
+      ],
+      "correct_option_id": 2,
+      "explanation": "동사 'working'을 수식하는 부사가 필요하므로 부사인 'diligently'가 정답입니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-09-08",
+      "next_ask": "2026-09-08"
+    },
+    {
+      "poll_id": "6120442432476677186",
+      "question": "The manager asked the team to finish the report ------- the deadline, as the client needs to review it before the weekend.",
+      "options": [
+        "before",
+        "ahead",
+        "priorly",
+        "in advance"
+      ],
+      "correct_option_id": 0,
+      "explanation": "빈칸 뒤에 명사구(the deadline)가 위치하므로 전치사가 필요합니다. 'before'는 전치사와 접속사로 모두 쓰일 수 있어 문맥상 적절합니다. 'ahead'는 부사이며, 'priorly'는 문법적으로 존재하지 않는 단어입니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-09-08",
+      "next_ask": "2026-09-08"
     }
   ]
 }
