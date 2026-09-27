@@ -1,169 +1,7 @@
 {
   "sent_polls": [
     {
-      "poll_id": "6177010514724389899",
-      "question": "[사료] 다음과 같은 주장이 제기된 시기의 사회 모습으로 옳은 것은?\n'우리나라의 토지는 한정되어 있는데, 이를 소수의 권력자가 독점하고 있으니 일반 백성들은 굶주림에 허덕인다. 따라서 토지를 균등하게 배분하고, 영업전은 제외하되 나머지 토지를 새로이 배분해야 한다.' 이는 조준 등이 주장한 경제 개혁안이다.",
-      "options": [
-        "귀족들은 음서 제도를 통해 고위 관직을 독점하였다.",
-        "농민들은 이모작의 보급으로 보리 농사가 활성화되었다.",
-        "조선 후기에는 모내기법이 전국적으로 확산되었다.",
-        "시전 상인들이 국왕의 허락을 받아 금난전권을 행사하였다."
-      ],
-      "correct_option_id": 0,
-      "explanation": "조준의 과전법 건의는 고려 말 공양왕 때 이루어졌습니다. 고려 말에는 권문세족이 대농장을 소유하고 음서 제도를 통해 가문의 권력을 세습하는 모습이 특징입니다.",
-      "category": "history",
-      "box": 1,
-      "last_asked": "2026-09-26",
-      "next_ask": "2026-09-23"
-    },
-    {
-      "poll_id": "6177010514724389900",
-      "question": "[보기 지문] 가 시기에 있었던 사실로 옳은 것은? (가) 동학 농민군이 전주성을 점령하고 정부와 화약을 체결하였다. 이후 농민군은 집강소를 설치하여 폐정 개혁을 추진하였다. 그러나 일본군이 경복궁을 기습 점령하고 내정 간섭을 강화하자, 농민군은 다시 봉기하였다.",
-      "options": [
-        "남접과 북접이 연합하여 우금치에서 항전하였다.",
-        "청나라 군대가 철수를 거부하며 풍도 해전이 일어났다.",
-        "대한 제국이 선포되어 고종이 황제에 즉위하였다.",
-        "독립 협회가 만민 공동회를 개최하여 이권 수호를 주장하였다."
-      ],
-      "correct_option_id": 0,
-      "explanation": "제시된 시기는 동학 농민 운동의 2차 봉기 시점입니다. 2차 봉기 당시 전봉준의 남접과 손병희의 북접이 합세하여 공주 우금치에서 일본군 및 관군과 격돌하였습니다.",
-      "category": "history",
-      "box": 1,
-      "last_asked": "2026-09-26",
-      "next_ask": "2026-09-24"
-    },
-    {
-      "poll_id": "6177010514724389901",
-      "question": "[사료] 다음과 같은 상황이 전개된 시기의 사실로 옳은 것은? \"개경으로 환도한 뒤, 원의 내정 간섭은 더욱 심화되었다. 정동행성의 이문소는 고려의 사법권까지 침해하였으며, 왕의 호칭과 관제는 격하되었다. 하지만 공민왕이 즉위하면서 이러한 흐름은 반전되기 시작하였다.\"",
-      "options": [
-        "쌍성총관부를 공격하여 철령 이북의 땅을 수복하였다.",
-        "몽골풍을 주도하여 변발과 호복이 유행하였다.",
-        "삼별초가 강화도에서 진도로 거점을 옮겨 저항하였다.",
-        "정방을 폐지하고 인사권을 왕에게 귀속시켰다."
-      ],
-      "correct_option_id": 0,
-      "explanation": "사료는 공민왕의 반원 자주화 정책 시기를 의미합니다. 공민왕은 1356년 기철을 숙청하고 쌍성총관부를 무력으로 공격하여 영토를 되찾았습니다. 3번은 고려 무신정권기, 2번은 원 간섭기 초기의 상황입니다.",
-      "category": "history",
-      "box": 1,
-      "last_asked": "2026-09-26",
-      "next_ask": "2026-09-24"
-    },
-    {
-      "poll_id": "6177010514724389902",
-      "question": "[보기] (가) 인물에 대한 설명으로 옳은 것은? (가)는 경기도 개성에서 태어나 성리학을 깊이 연구하였다. 그는 16세기에 '기발이승일도설'을 주장하며 이와 기의 관계를 논리적으로 체계화하였다. 또한 그가 세운 서원에서는 학문 연구와 제자 양성이 활발히 이루어졌다.",
-      "options": [
-        "성학십도를 저술하여 군주의 도리를 강조하였다.",
-        "동호문답을 통해 수미법을 포함한 개혁안을 제시하였다.",
-        "위훈 삭제를 주장하며 훈구 세력의 비리를 비판하였다.",
-        "강화 학파를 형성하여 지행합일을 강조하였다."
-      ],
-      "correct_option_id": 1,
-      "explanation": "보기의 인물은 이이입니다. 이이는 '기발이승일도설'을 주장한 주기론자이며, 동호문답 등을 통해 공납제 개혁인 수미법 도입을 주장했습니다. 이황은 성학십도를 저술했습니다.",
-      "category": "history",
-      "box": 1,
-      "last_asked": "2026-09-26",
-      "next_ask": "2026-09-24"
-    },
-    {
-      "poll_id": "6177010514724389903",
-      "question": "[사료] 다음 포고문이 발표된 이후의 역사적 사실로 옳은 것은? \"일본은 조선을 아시아의 영도자로 만들고 동양 평화를 유지하기 위해 보호 조약을 체결한다. 이에 외교권을 박탈하고 통감부를 설치하여 내정을 감독하게 한다.\"",
-      "options": [
-        "헤이그 특사를 파견하여 을사늑약의 부당성을 알렸다.",
-        "대한 제국 선포 이후 광무개혁을 추진하였다.",
-        "러일 전쟁의 발발로 일본군이 한양에 진주하였다.",
-        "독립 협회가 만민 공동회를 개최하였다."
-      ],
-      "correct_option_id": 0,
-      "explanation": "사료는 1905년 을사늑약입니다. 을사늑약 이후 고종은 조약의 불법성을 알리기 위해 1907년 헤이그에 특사를 파견하였습니다. 2, 3, 4번은 을사늑약 이전의 사건입니다.",
-      "category": "history",
-      "box": 1,
-      "last_asked": "2026-09-26",
-      "next_ask": "2026-09-24"
-    },
-    {
-      "poll_id": "6177010514724389904",
-      "question": "Employees are reminded that all safety gear must be worn at all times ------ they are working on the production floor.",
-      "options": [
-        "whereas",
-        "however",
-        "while",
-        "despite"
-      ],
-      "correct_option_id": 2,
-      "explanation": "빈칸 뒤에 주어(they)와 동사(are working)를 갖춘 절이 오므로 접속사가 필요합니다. 문맥상 '~하는 동안'이라는 의미의 접속사 'while'이 가장 적절합니다.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-09-26",
-      "next_ask": "2026-09-23"
-    },
-    {
-      "poll_id": "6177010514724389905",
-      "question": "Ms. Kim is highly qualified for the position, ------- her lack of experience in the specific industry.",
-      "options": [
-        "despite",
-        "although",
-        "even",
-        "however"
-      ],
-      "correct_option_id": 0,
-      "explanation": "빈칸 뒤에 명사구(her lack of experience)가 오므로 전치사인 despite가 와야 합니다. although는 접속사이므로 뒤에 주어+동사가 와야 합니다.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-09-26",
-      "next_ask": "2026-09-23"
-    },
-    {
-      "poll_id": "6177010514724389906",
-      "question": "Choose the best word to complete the sentence: The human resources manager emphasized that all employees must submit their completed vacation request forms ------- next Friday at the latest.",
-      "options": [
-        "until",
-        "by",
-        "since",
-        "during"
-      ],
-      "correct_option_id": 1,
-      "explanation": "The preposition 'by' is used to indicate a deadline, meaning 'no later than'. 'Until' would imply a continuous state, which does not fit.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-09-26",
-      "next_ask": "2026-09-24"
-    },
-    {
-      "poll_id": "6177010514724389907",
-      "question": "Ms. Jenkins was impressed by the candidate's ------ qualifications, specifically her decade of experience in international logistics management.",
-      "options": [
-        "extensive",
-        "extensively",
-        "extend",
-        "extension"
-      ],
-      "correct_option_id": 0,
-      "explanation": "빈칸은 뒤에 오는 명사 'qualifications'를 수식하는 형용사 자리입니다. '광범위한, 폭넓은'이라는 뜻의 형용사 'extensive'가 문맥상 가장 자연스럽습니다.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-09-26",
-      "next_ask": "2026-09-24"
-    },
-    {
-      "poll_id": "6177010514724389908",
-      "question": "The company's new policy requires all employees to submit their travel expense reports ------- by the end of the month.",
-      "options": [
-        "direct",
-        "directly",
-        "direction",
-        "directed"
-      ],
-      "correct_option_id": 1,
-      "explanation": "동사 'submit'을 수식하는 부사가 필요합니다. 문맥상 여행 경비 보고서를 직접 제출하라는 의미이므로 부사인 directly가 적절합니다.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-09-26",
-      "next_ask": "2026-09-24"
-    }
-  ],
-  "spaced_repetition_pool": [
-    {
-      "poll_id": "6168241711924380766",
+      "poll_id": "6179236617748742977",
       "question": "[사료] 다음 조약 체결로 나타난 결과로 가장 적절한 것은? \"조선은 청의 속방임을 명시하고, 청의 상인은 조선 내지에서 자유롭게 무역할 수 있다. 또한 조선 내에서 영사 재판권과 최혜국 대우를 인정받는다.\"",
       "options": [
         "방곡령 선포가 활발해지는 계기가 되었다.",
@@ -175,43 +13,11 @@
       "explanation": "사료는 1882년 임오군란 이후 체결된 '조청상민수륙무역장정'입니다. 이로 인해 청의 내정 간섭이 심화되었고, 이에 반발한 급진 개화파가 1884년 갑신정변을 일으켰습니다.",
       "category": "history",
       "box": 1,
-      "last_asked": "2026-09-24",
+      "last_asked": "2026-09-27",
       "next_ask": "2026-09-24"
     },
     {
-      "poll_id": "6168241711924380770",
-      "question": "The board of directors agreed to increase the marketing budget ------- the recent decline in quarterly revenue.",
-      "options": [
-        "in light of",
-        "in addition to",
-        "as long as",
-        "in order to"
-      ],
-      "correct_option_id": 0,
-      "explanation": "문맥상 '최근 매출 감소를 고려하여'라는 의미가 적절합니다. 'in light of'는 '~을 고려하여'라는 뜻의 전치사구입니다.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-09-24",
-      "next_ask": "2026-09-24"
-    },
-    {
-      "poll_id": "6168241711924380771",
-      "question": "The project was completed ------- the unexpected delays caused by the severe weather conditions last week.",
-      "options": [
-        "because",
-        "since",
-        "despite",
-        "unless"
-      ],
-      "correct_option_id": 2,
-      "explanation": "빈칸 뒤에 명사구(the unexpected delays...)가 이어지므로 전치사가 필요합니다. 의미상 악천후에도 불구하고 프로젝트를 완수했다는 내용이 자연스럽습니다.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-09-24",
-      "next_ask": "2026-09-24"
-    },
-    {
-      "poll_id": "6170171973306418215",
+      "poll_id": "6179236617748742978",
       "question": "[사료] 김부식이 왕명에 따라 묘청의 서경 천도 운동을 진압한 후, 서경 세력을 토벌하는 과정에서 쓴 글의 일부이다. '묘청 등은 서경을 거점으로 삼아 국호를 대위라 하고, 연호를 천개라 하였으며, 군대를 일으켜 왕실의 명령을 거부하였다.' 위 사료와 관련된 사건이 일어난 시기의 사실로 옳은 것은?",
       "options": [
         "이자겸의 난이 발생하여 중앙 정치가 문란해졌다.",
@@ -223,11 +29,11 @@
       "explanation": "묘청의 서경 천도 운동(1135)은 고려 인종 때 발생했습니다. 이자겸의 난(1126)은 묘청의 난보다 앞선 인종 때의 사건입니다. 의종 시기 편찬된 삼국사기는 묘청의 난 진압 이후입니다.",
       "category": "history",
       "box": 1,
-      "last_asked": "2026-09-25",
+      "last_asked": "2026-09-27",
       "next_ask": "2026-09-25"
     },
     {
-      "poll_id": "6170171973306418216",
+      "poll_id": "6179236617748742979",
       "question": "[보기] (가) 인물에 대한 설명으로 옳은 것은?\n(가)는 왜구의 침입이 잦아지자 남해안 일대에서 왜구를 크게 격파하였다. 또한 그는 명나라에 사신으로 가서 외교적 노력을 기울였으며, 요동 정벌을 계획하다가 위화도 회군을 단행하여 권력을 잡았다.\n그는 조선 건국 이후 한양을 새로운 도읍지로 정하고 경복궁을 건설하도록 하였다.",
       "options": [
         "쌍성총관부를 공격하여 철령 이북의 땅을 수복하였다.",
@@ -239,11 +45,11 @@
       "explanation": "설명된 인물은 이성계(태조)입니다. 이성계는 정도전과 함께 과전법을 실시하여 고려 말 권문세족의 경제적 기반을 허물고 신진 사대부의 개혁을 뒷받침했습니다.",
       "category": "history",
       "box": 1,
-      "last_asked": "2026-09-25",
+      "last_asked": "2026-09-27",
       "next_ask": "2026-09-25"
     },
     {
-      "poll_id": "6170171973306418217",
+      "poll_id": "6179236617748742980",
       "question": "[사료] 다음과 같은 선언문을 발표한 단체의 활동으로 옳은 것은?\n'우리는 조선의 독립을 선언하고, 일제의 강압적인 통치에 저항한다. 오늘 우리는 민족의 이름으로 정의의 길을 걷기로 하였으니, 종교와 계급을 넘어 하나로 뭉쳐야 한다.' 위 선언문은 1926년 민족 유일당 운동의 일환으로 발표되었다.",
       "options": [
         "광주 학생 항일 운동을 지원하는 격문을 배포하였다.",
@@ -255,11 +61,11 @@
       "explanation": "6·10 만세 운동은 1926년 순종의 인산일을 계기로 사회주의 세력과 천도교 등 민족주의 계열이 연대하여 계획한 거대한 항일 운동입니다.",
       "category": "history",
       "box": 1,
-      "last_asked": "2026-09-25",
+      "last_asked": "2026-09-27",
       "next_ask": "2026-09-25"
     },
     {
-      "poll_id": "6170171973306418218",
+      "poll_id": "6179236617748742981",
       "question": "[보기] 다음 사건들을 시기순으로 옳게 나열한 것은?\n(가) 삼별초가 강화도에서 진도로 거점을 옮겨 항전하였다.\n(나) 최충헌이 정권을 잡고 명종을 폐위한 뒤 신종을 옹립하였다.\n(다) 망이·망소이가 공주 명학소에서 봉기를 일으켰다.\n(라) 정중부 등이 보현원에서 무신 정변을 일으켰다.",
       "options": [
         "(라)-(다)-(나)-(가)",
@@ -271,9 +77,91 @@
       "explanation": "정변(1170) -> 망이·망소이 봉기(1176) -> 최충헌 집권(1196) -> 삼별초의 대몽 항전(1270) 순입니다.",
       "category": "history",
       "box": 1,
-      "last_asked": "2026-09-25",
+      "last_asked": "2026-09-27",
       "next_ask": "2026-09-25"
     },
+    {
+      "poll_id": "6179236617748742982",
+      "question": "The board of directors agreed to increase the marketing budget ------- the recent decline in quarterly revenue.",
+      "options": [
+        "in light of",
+        "in addition to",
+        "as long as",
+        "in order to"
+      ],
+      "correct_option_id": 0,
+      "explanation": "문맥상 '최근 매출 감소를 고려하여'라는 의미가 적절합니다. 'in light of'는 '~을 고려하여'라는 뜻의 전치사구입니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-09-27",
+      "next_ask": "2026-09-24"
+    },
+    {
+      "poll_id": "6179236617748742983",
+      "question": "The project was completed ------- the unexpected delays caused by the severe weather conditions last week.",
+      "options": [
+        "because",
+        "since",
+        "despite",
+        "unless"
+      ],
+      "correct_option_id": 2,
+      "explanation": "빈칸 뒤에 명사구(the unexpected delays...)가 이어지므로 전치사가 필요합니다. 의미상 악천후에도 불구하고 프로젝트를 완수했다는 내용이 자연스럽습니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-09-27",
+      "next_ask": "2026-09-24"
+    },
+    {
+      "poll_id": "6179236617748742984",
+      "question": "The board of directors is -------- to review the quarterly financial reports before making any major investment decisions.",
+      "options": [
+        "required",
+        "requires",
+        "requirement",
+        "requiring"
+      ],
+      "correct_option_id": 0,
+      "explanation": "be + p.p. 형태의 수동태 구조가 필요하며, 주어(The board of directors)의 상태를 나타내는 형용사적 분사 'required'가 문맥상 가장 적절합니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-09-27",
+      "next_ask": "2026-09-25"
+    },
+    {
+      "poll_id": "6179236617748742985",
+      "question": "Choose the best word to complete the sentence: Due to the unexpected budget cuts, the department head decided to ------- the proposed marketing strategy to prioritize essential operational costs.",
+      "options": [
+        "postpone",
+        "postponement",
+        "postponing",
+        "postpones"
+      ],
+      "correct_option_id": 0,
+      "explanation": "The sentence requires a base form verb to follow the infinitive marker 'to'. 'Postpone' functions as the verb here.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-09-27",
+      "next_ask": "2026-09-25"
+    },
+    {
+      "poll_id": "6179236617748742986",
+      "question": "The CEO decided to expand the company's presence in Asia, -------- the significant risks involved in the regional market.",
+      "options": [
+        "although",
+        "despite",
+        "nevertheless",
+        "however"
+      ],
+      "correct_option_id": 1,
+      "explanation": "빈칸 뒤에 명사구(the significant risks)가 이어지므로 전치사인 'despite'가 정답입니다. 접속사 although는 절을 이끌어야 합니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-09-27",
+      "next_ask": "2026-09-25"
+    }
+  ],
+  "spaced_repetition_pool": [
     {
       "poll_id": "6170171973306418219",
       "question": "[사료] 다음과 같은 주장을 펼친 인물은 국왕에게 상소를 올려 \"오늘날의 폐단은 붕당이 득세하는 것이며, 그 근본은 외척의 세도 정치에 있습니다. 지금의 폐해를 바로잡기 위해서는 탕평을 시행하여 당색을 초월한 인재를 등용해야 합니다. 특히 왕실의 외척인 노론 세력을 견제하고, 억눌려 있던 남인과 소론을 적절히 기용하여 세력 균형을 맞춰야 합니다.\"",
@@ -286,54 +174,6 @@
       "correct_option_id": 1,
       "explanation": "제시된 사료는 정조의 탕평책에 관한 내용입니다. 정조는 즉위 직후부터 '준론 탕평'을 표방하며 노론 벽파를 견제하고, 자신의 개혁 정치에 동조하는 인물을 과감히 등용하였습니다.",
       "category": "history",
-      "box": 1,
-      "last_asked": "2026-09-25",
-      "next_ask": "2026-09-25"
-    },
-    {
-      "poll_id": "6170171973306418220",
-      "question": "The board of directors is -------- to review the quarterly financial reports before making any major investment decisions.",
-      "options": [
-        "required",
-        "requires",
-        "requirement",
-        "requiring"
-      ],
-      "correct_option_id": 0,
-      "explanation": "be + p.p. 형태의 수동태 구조가 필요하며, 주어(The board of directors)의 상태를 나타내는 형용사적 분사 'required'가 문맥상 가장 적절합니다.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-09-25",
-      "next_ask": "2026-09-25"
-    },
-    {
-      "poll_id": "6170171973306418221",
-      "question": "Choose the best word to complete the sentence: Due to the unexpected budget cuts, the department head decided to ------- the proposed marketing strategy to prioritize essential operational costs.",
-      "options": [
-        "postpone",
-        "postponement",
-        "postponing",
-        "postpones"
-      ],
-      "correct_option_id": 0,
-      "explanation": "The sentence requires a base form verb to follow the infinitive marker 'to'. 'Postpone' functions as the verb here.",
-      "category": "toeic",
-      "box": 1,
-      "last_asked": "2026-09-25",
-      "next_ask": "2026-09-25"
-    },
-    {
-      "poll_id": "6170171973306418222",
-      "question": "The CEO decided to expand the company's presence in Asia, -------- the significant risks involved in the regional market.",
-      "options": [
-        "although",
-        "despite",
-        "nevertheless",
-        "however"
-      ],
-      "correct_option_id": 1,
-      "explanation": "빈칸 뒤에 명사구(the significant risks)가 이어지므로 전치사인 'despite'가 정답입니다. 접속사 although는 절을 이끌어야 합니다.",
-      "category": "toeic",
       "box": 1,
       "last_asked": "2026-09-25",
       "next_ask": "2026-09-25"
@@ -529,6 +369,166 @@
       "box": 1,
       "last_asked": "2026-09-26",
       "next_ask": "2026-09-26"
+    },
+    {
+      "poll_id": "6177010514724389899",
+      "question": "[사료] 다음과 같은 주장이 제기된 시기의 사회 모습으로 옳은 것은?\n'우리나라의 토지는 한정되어 있는데, 이를 소수의 권력자가 독점하고 있으니 일반 백성들은 굶주림에 허덕인다. 따라서 토지를 균등하게 배분하고, 영업전은 제외하되 나머지 토지를 새로이 배분해야 한다.' 이는 조준 등이 주장한 경제 개혁안이다.",
+      "options": [
+        "귀족들은 음서 제도를 통해 고위 관직을 독점하였다.",
+        "농민들은 이모작의 보급으로 보리 농사가 활성화되었다.",
+        "조선 후기에는 모내기법이 전국적으로 확산되었다.",
+        "시전 상인들이 국왕의 허락을 받아 금난전권을 행사하였다."
+      ],
+      "correct_option_id": 0,
+      "explanation": "조준의 과전법 건의는 고려 말 공양왕 때 이루어졌습니다. 고려 말에는 권문세족이 대농장을 소유하고 음서 제도를 통해 가문의 권력을 세습하는 모습이 특징입니다.",
+      "category": "history",
+      "box": 1,
+      "last_asked": "2026-09-27",
+      "next_ask": "2026-09-27"
+    },
+    {
+      "poll_id": "6177010514724389900",
+      "question": "[보기 지문] 가 시기에 있었던 사실로 옳은 것은? (가) 동학 농민군이 전주성을 점령하고 정부와 화약을 체결하였다. 이후 농민군은 집강소를 설치하여 폐정 개혁을 추진하였다. 그러나 일본군이 경복궁을 기습 점령하고 내정 간섭을 강화하자, 농민군은 다시 봉기하였다.",
+      "options": [
+        "남접과 북접이 연합하여 우금치에서 항전하였다.",
+        "청나라 군대가 철수를 거부하며 풍도 해전이 일어났다.",
+        "대한 제국이 선포되어 고종이 황제에 즉위하였다.",
+        "독립 협회가 만민 공동회를 개최하여 이권 수호를 주장하였다."
+      ],
+      "correct_option_id": 0,
+      "explanation": "제시된 시기는 동학 농민 운동의 2차 봉기 시점입니다. 2차 봉기 당시 전봉준의 남접과 손병희의 북접이 합세하여 공주 우금치에서 일본군 및 관군과 격돌하였습니다.",
+      "category": "history",
+      "box": 1,
+      "last_asked": "2026-09-27",
+      "next_ask": "2026-09-27"
+    },
+    {
+      "poll_id": "6177010514724389901",
+      "question": "[사료] 다음과 같은 상황이 전개된 시기의 사실로 옳은 것은? \"개경으로 환도한 뒤, 원의 내정 간섭은 더욱 심화되었다. 정동행성의 이문소는 고려의 사법권까지 침해하였으며, 왕의 호칭과 관제는 격하되었다. 하지만 공민왕이 즉위하면서 이러한 흐름은 반전되기 시작하였다.\"",
+      "options": [
+        "쌍성총관부를 공격하여 철령 이북의 땅을 수복하였다.",
+        "몽골풍을 주도하여 변발과 호복이 유행하였다.",
+        "삼별초가 강화도에서 진도로 거점을 옮겨 저항하였다.",
+        "정방을 폐지하고 인사권을 왕에게 귀속시켰다."
+      ],
+      "correct_option_id": 0,
+      "explanation": "사료는 공민왕의 반원 자주화 정책 시기를 의미합니다. 공민왕은 1356년 기철을 숙청하고 쌍성총관부를 무력으로 공격하여 영토를 되찾았습니다. 3번은 고려 무신정권기, 2번은 원 간섭기 초기의 상황입니다.",
+      "category": "history",
+      "box": 1,
+      "last_asked": "2026-09-27",
+      "next_ask": "2026-09-27"
+    },
+    {
+      "poll_id": "6177010514724389902",
+      "question": "[보기] (가) 인물에 대한 설명으로 옳은 것은? (가)는 경기도 개성에서 태어나 성리학을 깊이 연구하였다. 그는 16세기에 '기발이승일도설'을 주장하며 이와 기의 관계를 논리적으로 체계화하였다. 또한 그가 세운 서원에서는 학문 연구와 제자 양성이 활발히 이루어졌다.",
+      "options": [
+        "성학십도를 저술하여 군주의 도리를 강조하였다.",
+        "동호문답을 통해 수미법을 포함한 개혁안을 제시하였다.",
+        "위훈 삭제를 주장하며 훈구 세력의 비리를 비판하였다.",
+        "강화 학파를 형성하여 지행합일을 강조하였다."
+      ],
+      "correct_option_id": 1,
+      "explanation": "보기의 인물은 이이입니다. 이이는 '기발이승일도설'을 주장한 주기론자이며, 동호문답 등을 통해 공납제 개혁인 수미법 도입을 주장했습니다. 이황은 성학십도를 저술했습니다.",
+      "category": "history",
+      "box": 1,
+      "last_asked": "2026-09-27",
+      "next_ask": "2026-09-27"
+    },
+    {
+      "poll_id": "6177010514724389903",
+      "question": "[사료] 다음 포고문이 발표된 이후의 역사적 사실로 옳은 것은? \"일본은 조선을 아시아의 영도자로 만들고 동양 평화를 유지하기 위해 보호 조약을 체결한다. 이에 외교권을 박탈하고 통감부를 설치하여 내정을 감독하게 한다.\"",
+      "options": [
+        "헤이그 특사를 파견하여 을사늑약의 부당성을 알렸다.",
+        "대한 제국 선포 이후 광무개혁을 추진하였다.",
+        "러일 전쟁의 발발로 일본군이 한양에 진주하였다.",
+        "독립 협회가 만민 공동회를 개최하였다."
+      ],
+      "correct_option_id": 0,
+      "explanation": "사료는 1905년 을사늑약입니다. 을사늑약 이후 고종은 조약의 불법성을 알리기 위해 1907년 헤이그에 특사를 파견하였습니다. 2, 3, 4번은 을사늑약 이전의 사건입니다.",
+      "category": "history",
+      "box": 1,
+      "last_asked": "2026-09-27",
+      "next_ask": "2026-09-27"
+    },
+    {
+      "poll_id": "6177010514724389904",
+      "question": "Employees are reminded that all safety gear must be worn at all times ------ they are working on the production floor.",
+      "options": [
+        "whereas",
+        "however",
+        "while",
+        "despite"
+      ],
+      "correct_option_id": 2,
+      "explanation": "빈칸 뒤에 주어(they)와 동사(are working)를 갖춘 절이 오므로 접속사가 필요합니다. 문맥상 '~하는 동안'이라는 의미의 접속사 'while'이 가장 적절합니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-09-27",
+      "next_ask": "2026-09-27"
+    },
+    {
+      "poll_id": "6177010514724389905",
+      "question": "Ms. Kim is highly qualified for the position, ------- her lack of experience in the specific industry.",
+      "options": [
+        "despite",
+        "although",
+        "even",
+        "however"
+      ],
+      "correct_option_id": 0,
+      "explanation": "빈칸 뒤에 명사구(her lack of experience)가 오므로 전치사인 despite가 와야 합니다. although는 접속사이므로 뒤에 주어+동사가 와야 합니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-09-27",
+      "next_ask": "2026-09-27"
+    },
+    {
+      "poll_id": "6177010514724389906",
+      "question": "Choose the best word to complete the sentence: The human resources manager emphasized that all employees must submit their completed vacation request forms ------- next Friday at the latest.",
+      "options": [
+        "until",
+        "by",
+        "since",
+        "during"
+      ],
+      "correct_option_id": 1,
+      "explanation": "The preposition 'by' is used to indicate a deadline, meaning 'no later than'. 'Until' would imply a continuous state, which does not fit.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-09-27",
+      "next_ask": "2026-09-27"
+    },
+    {
+      "poll_id": "6177010514724389907",
+      "question": "Ms. Jenkins was impressed by the candidate's ------ qualifications, specifically her decade of experience in international logistics management.",
+      "options": [
+        "extensive",
+        "extensively",
+        "extend",
+        "extension"
+      ],
+      "correct_option_id": 0,
+      "explanation": "빈칸은 뒤에 오는 명사 'qualifications'를 수식하는 형용사 자리입니다. '광범위한, 폭넓은'이라는 뜻의 형용사 'extensive'가 문맥상 가장 자연스럽습니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-09-27",
+      "next_ask": "2026-09-27"
+    },
+    {
+      "poll_id": "6177010514724389908",
+      "question": "The company's new policy requires all employees to submit their travel expense reports ------- by the end of the month.",
+      "options": [
+        "direct",
+        "directly",
+        "direction",
+        "directed"
+      ],
+      "correct_option_id": 1,
+      "explanation": "동사 'submit'을 수식하는 부사가 필요합니다. 문맥상 여행 경비 보고서를 직접 제출하라는 의미이므로 부사인 directly가 적절합니다.",
+      "category": "toeic",
+      "box": 1,
+      "last_asked": "2026-09-27",
+      "next_ask": "2026-09-27"
     }
   ]
 }
